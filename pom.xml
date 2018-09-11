@@ -505,7 +505,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>Snapshots</name>
-        <url></url>
+        <url>http://localhost:8081/repository/Snapshots/</url>
         </snapshotRepository>
         
 
