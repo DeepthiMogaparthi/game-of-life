@@ -495,20 +495,6 @@
             </reporting>
         </profile>
     </profiles>
-    <distributionManagement>
-    <repository
-                <id>demo</id>             
-                <name>Demo</name>
-                <url>http://localhost:8081/repository/Demo/</url>
-    </repository>
     
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>Snapshots</name>
-        <url>http://localhost:8081/repository/Snapshots/</url>
-        </snapshotRepository>
-        
-
-</distributionManagement>
     
 </project>
